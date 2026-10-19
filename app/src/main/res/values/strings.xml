@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CST2335 Lab 7</string>
+    <string name="title_details">CST2335 Lab 7</string>
+    <string name="label_name">Name:  </string>
+    <string name="label_height">Height:  </string>
+    <string name="label_mass">Mass:  </string>
+    <string name="default_fill_me">fill_me</string>
+    <string name="api_error">Unable to connect to Star Wars API.</string>
+</resources>
